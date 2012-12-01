@@ -8,7 +8,7 @@ It actullay doesn't change a theme from Soda Theme's original design, it only ad
 
 ## How does it look
 
-![Sode Theme + RubyTest Light&Dark](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=4)
+![Sode Theme + RubyTest Light&Dark](https://github.com/pazaricha/soda-theme-ruby-test/blob/master/preview.png?raw=true)
 
 ## Installation
 
